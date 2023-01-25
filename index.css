@@ -2,17 +2,17 @@ body {
   margin: 0;
   line-height: normal;
 }
-.iphone-13-pro-max-5-child {
+.iphone-13-pro-max-6-child {
   position: absolute;
   top: 0;
   left: 1px;
   width: 428px;
   height: 606px;
 }
-.iphone-13-pro-max-5-item {
+.iphone-13-pro-max-6-item {
   position: absolute;
-  top: 305px;
-  left: 18px;
+  top: 303px;
+  left: 16px;
   border-radius: var(--br-md);
   background-color: var(--color-white);
   width: 391px;
@@ -21,33 +21,10 @@ body {
 .logo-600x600-2-removebg-previe-icon {
   position: absolute;
   top: 36px;
-  left: 107px;
+  left: 103px;
   width: 213px;
   height: 213px;
   object-fit: cover;
-}
-.iphone-13-pro-max-5-child1,
-.iphone-13-pro-max-5-inner,
-.rectangle-div {
-  position: absolute;
-  height: 14.98%;
-  width: 80.14%;
-  top: 34.52%;
-  right: 9.35%;
-  bottom: 50.5%;
-  left: 10.51%;
-  border-radius: var(--br-sm);
-  background-color: var(--color-white);
-  box-shadow: 0 2px 20px rgba(0, 122, 51, 0.31);
-}
-.iphone-13-pro-max-5-child1,
-.rectangle-div {
-  top: 51.59%;
-  bottom: 33.43%;
-}
-.iphone-13-pro-max-5-child1 {
-  top: 68.65%;
-  bottom: 16.37%;
 }
 .battery-icon {
   position: absolute;
@@ -129,7 +106,7 @@ body {
   max-height: 100%;
 }
 .battery-icon-parent,
-.side-effects-to {
+.non-dietary-suggestions {
   position: absolute;
   font-family: var(--font-segoe-ui);
   color: var(--color-white);
@@ -137,14 +114,14 @@ body {
 .battery-icon-parent {
   height: 1.92%;
   width: 93.45%;
-  top: 0.79%;
+  top: 1.29%;
   right: 3.28%;
-  bottom: 97.28%;
+  bottom: 96.79%;
   left: 3.27%;
   font-size: var(--font-size-lg);
 }
-.side-effects-to {
-  top: 254px;
+.non-dietary-suggestions {
+  top: 256px;
   left: 74px;
   font-size: var(--font-size-2xl);
   display: inline-block;
@@ -152,23 +129,48 @@ body {
   width: 281px;
   height: 36px;
 }
-.can-happen,
-.most-likely,
-.unlikely {
+.iphone-13-pro-max-6-child1,
+.iphone-13-pro-max-6-inner,
+.rectangle-div {
+  position: absolute;
+  height: 14.98%;
+  width: 80.14%;
+  top: 35.02%;
+  right: 10.05%;
+  bottom: 50%;
+  left: 9.81%;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 20px rgba(0, 122, 51, 0.31);
+}
+.iphone-13-pro-max-6-child1,
+.rectangle-div {
+  top: 52.08%;
+  bottom: 32.94%;
+}
+.iphone-13-pro-max-6-child1 {
+  top: 69.15%;
+  bottom: 15.87%;
+}
+.keeping-a-cheerful,
+.physical-activities,
+.things-to-ensure {
   position: absolute;
   height: 1.79%;
-  width: 38.32%;
-  top: 36.21%;
-  left: 17.29%;
+  width: 43.69%;
+  top: 36.71%;
+  left: 16.59%;
   display: flex;
   align-items: center;
 }
-.can-happen,
-.unlikely {
-  top: 53.47%;
+.keeping-a-cheerful,
+.things-to-ensure {
+  width: 38.32%;
+  top: 53.97%;
 }
-.unlikely {
-  top: 70.83%;
+.keeping-a-cheerful {
+  width: 43.69%;
+  top: 71.33%;
 }
 .group-child {
   position: absolute;
@@ -195,8 +197,8 @@ body {
 }
 .rectangle-parent {
   position: absolute;
-  top: 966px;
-  left: 388px;
+  top: 968px;
+  left: 385px;
   width: 42px;
   height: 42px;
   transform: rotate(-180deg);
@@ -227,11 +229,11 @@ body {
 .rectangle-group {
   position: absolute;
   top: 134px;
-  left: 23px;
+  left: 24px;
   width: 35px;
   height: 35px;
 }
-.iphone-13-pro-max-5 {
+.iphone-13-pro-max-6 {
   position: relative;
   background-color: var(--color-gray-100);
   width: 100%;
