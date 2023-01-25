@@ -1,0 +1,12 @@
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-montserrat: Montserrat;
+  --font-segoe-ui: "Segoe UI";
+
+  /* font sizes */
+  --font-size-base: 14px;
+
+  /* Colors */
+  --color-white: #fff;
+}

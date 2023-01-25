@@ -1,0 +1,192 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.iphone-13-pro-max-1-child,
+.mask-group-icon {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 428px;
+  height: 606px;
+}
+.mask-group-icon {
+  left: 3px;
+  width: 425px;
+  height: 573px;
+}
+.iphone-13-pro-max-1-item {
+  position: absolute;
+  top: 196px;
+  left: 18px;
+  border-radius: 21px;
+  background-color: var(--color-white);
+  width: 391px;
+  height: 478px;
+}
+.battery-icon,
+.iphone-13-pro-max-1-inner {
+  position: absolute;
+  top: 69px;
+  left: 77px;
+  width: 267px;
+  height: 267px;
+}
+.battery-icon {
+  height: 53.18%;
+  width: 8.01%;
+  top: 21.99%;
+  right: 0;
+  bottom: 24.83%;
+  left: 91.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div {
+  position: absolute;
+  height: 91.85%;
+  width: 8.57%;
+  top: 0;
+  left: 81.76%;
+  display: inline-block;
+}
+.bluetooth-icon,
+.lock-icon {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bluetooth-icon {
+  position: absolute;
+  height: 68.24%;
+  width: 2.09%;
+  top: 13.99%;
+  right: 19.84%;
+  bottom: 17.77%;
+  left: 78.07%;
+  opacity: 0.45;
+}
+.lock-icon {
+  height: 52.41%;
+  width: 2.21%;
+  top: 23.39%;
+  right: 48.74%;
+  bottom: 24.2%;
+  left: 49.05%;
+}
+.gs,
+.lock-icon,
+.wifi-icon {
+  position: absolute;
+}
+.wifi-icon {
+  height: 57.65%;
+  width: 4.15%;
+  top: 23.39%;
+  right: 77.75%;
+  bottom: 18.96%;
+  left: 18.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.gs {
+  height: 99.58%;
+  width: 4.97%;
+  top: 0.42%;
+  left: 12.02%;
+  display: inline-block;
+}
+.signal-icon {
+  position: absolute;
+  height: 36.69%;
+  width: 11.33%;
+  top: 35.4%;
+  right: 88.67%;
+  bottom: 27.91%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.battery-icon-parent {
+  position: absolute;
+  height: 2.09%;
+  width: 93.45%;
+  top: 0.86%;
+  right: 3.28%;
+  bottom: 97.04%;
+  left: 3.27%;
+}
+.rectangle-div {
+  position: absolute;
+  top: 757px;
+  left: 72px;
+  border-radius: 33px;
+  background: linear-gradient(270deg, #007a33, #4fc983);
+  box-shadow: 0 4px 20px 10px rgba(112, 220, 157, 0.32);
+  width: 277px;
+  height: 47px;
+}
+.login {
+  position: absolute;
+  height: 2.59%;
+  width: 20.56%;
+  top: 83.05%;
+  left: 39.02%;
+  font-size: 18px;
+  display: inline-block;
+  font-family: var(--font-montserrat);
+  text-align: center;
+}
+.iphone-13-pro-max-1-child1 {
+  position: absolute;
+  height: 6.05%;
+  width: 73.13%;
+  top: 45.46%;
+  right: 13.32%;
+  bottom: 48.49%;
+  left: 13.55%;
+  border-radius: 20px;
+  background-color: var(--color-white);
+  box-shadow: 0 2px 20px rgba(0, 122, 51, 0.31);
+}
+.mobile-number {
+  position: absolute;
+  height: 1.94%;
+  width: 35.05%;
+  top: 47.52%;
+  left: 20.56%;
+  font-size: 12px;
+  font-family: var(--font-roboto);
+  color: #007a33;
+  display: flex;
+  align-items: center;
+}
+.logo-600x600-2-removebg-previe-icon {
+  position: absolute;
+  top: 119px;
+  left: 134px;
+  width: 160px;
+  height: 159px;
+  object-fit: cover;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 111px;
+  left: 123px;
+  width: 176px;
+  height: 176px;
+}
+.iphone-13-pro-max-1 {
+  position: relative;
+  background-color: #e6eff6;
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-segoe-ui);
+}
