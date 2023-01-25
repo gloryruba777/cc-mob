@@ -2,21 +2,21 @@ body {
   margin: 0;
   line-height: normal;
 }
-.iphone-13-pro-max-6-child {
+.iphone-13-pro-max-7-child {
   position: absolute;
   top: 0;
-  left: 1px;
+  left: 0;
   width: 428px;
   height: 606px;
 }
-.iphone-13-pro-max-6-item {
+.iphone-13-pro-max-7-item {
   position: absolute;
-  top: 303px;
-  left: 16px;
+  top: 319px;
+  left: 18px;
   border-radius: var(--br-md);
   background-color: var(--color-white);
   width: 391px;
-  height: 588px;
+  height: 875px;
 }
 .logo-600x600-2-removebg-previe-icon {
   position: absolute;
@@ -106,22 +106,24 @@ body {
   max-height: 100%;
 }
 .battery-icon-parent,
-.non-dietary-suggestions {
+.dietary-suggestions,
+.presumptive-date-of {
   position: absolute;
   font-family: var(--font-segoe-ui);
   color: var(--color-white);
 }
 .battery-icon-parent {
-  height: 1.92%;
+  height: 1.49%;
   width: 93.45%;
-  top: 1.29%;
+  top: 1%;
   right: 3.28%;
-  bottom: 96.79%;
+  bottom: 97.51%;
   left: 3.27%;
   font-size: var(--font-size-lg);
 }
-.non-dietary-suggestions {
-  top: 256px;
+.dietary-suggestions,
+.presumptive-date-of {
+  top: 258px;
   left: 74px;
   font-size: var(--font-size-2xl);
   display: inline-block;
@@ -129,82 +131,147 @@ body {
   width: 281px;
   height: 36px;
 }
-.iphone-13-pro-max-6-child1,
-.iphone-13-pro-max-6-inner,
+.presumptive-date-of {
+  top: 1220px;
+  left: 73px;
+  font-weight: 600;
+  color: var(--color-green);
+  height: 60px;
+}
+.iphone-13-pro-max-7-inner,
 .rectangle-div {
   position: absolute;
-  height: 14.98%;
+  height: 11.6%;
   width: 80.14%;
-  top: 35.02%;
+  top: 27.5%;
+  right: 9.81%;
+  bottom: 60.91%;
+  left: 10.05%;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 20px rgba(0, 122, 51, 0.31);
+}
+.rectangle-div {
+  height: 4.84%;
+  top: 40.48%;
   right: 10.05%;
-  bottom: 50%;
+  bottom: 54.69%;
+  left: 9.81%;
+}
+.iphone-13-pro-max-7-child1,
+.iphone-13-pro-max-7-child2,
+.iphone-13-pro-max-7-child3,
+.iphone-13-pro-max-7-child4,
+.iphone-13-pro-max-7-child5,
+.iphone-13-pro-max-7-child6,
+.iphone-13-pro-max-7-child7 {
+  position: absolute;
+  height: 4.84%;
+  width: 80.14%;
+  top: 65.36%;
+  right: 10.05%;
+  bottom: 29.8%;
   left: 9.81%;
   border-radius: var(--br-sm);
   background-color: var(--color-white);
   box-shadow: 0 2px 20px rgba(0, 122, 51, 0.31);
 }
-.iphone-13-pro-max-6-child1,
-.rectangle-div {
-  top: 52.08%;
-  bottom: 32.94%;
+.iphone-13-pro-max-7-child2,
+.iphone-13-pro-max-7-child3,
+.iphone-13-pro-max-7-child4,
+.iphone-13-pro-max-7-child5,
+.iphone-13-pro-max-7-child6,
+.iphone-13-pro-max-7-child7 {
+  top: 46.7%;
+  bottom: 48.46%;
 }
-.iphone-13-pro-max-6-child1 {
-  top: 69.15%;
-  bottom: 15.87%;
+.iphone-13-pro-max-7-child3,
+.iphone-13-pro-max-7-child4,
+.iphone-13-pro-max-7-child5,
+.iphone-13-pro-max-7-child6,
+.iphone-13-pro-max-7-child7 {
+  top: 71.58%;
+  bottom: 23.58%;
 }
-.keeping-a-cheerful,
-.physical-activities,
-.things-to-ensure {
+.iphone-13-pro-max-7-child4,
+.iphone-13-pro-max-7-child5,
+.iphone-13-pro-max-7-child6,
+.iphone-13-pro-max-7-child7 {
+  top: 52.92%;
+  bottom: 42.24%;
+}
+.iphone-13-pro-max-7-child5,
+.iphone-13-pro-max-7-child6,
+.iphone-13-pro-max-7-child7 {
+  top: 77.8%;
+  bottom: 17.36%;
+}
+.iphone-13-pro-max-7-child6,
+.iphone-13-pro-max-7-child7 {
+  top: 59.14%;
+  bottom: 36.02%;
+}
+.iphone-13-pro-max-7-child7 {
+  top: 84.02%;
+  bottom: 11.14%;
+}
+.jun-2022-accordion,
+.jun-2022-accordion1,
+.jun-2022-accordion2,
+.jun-2022-accordion3 {
   position: absolute;
-  height: 1.79%;
+  height: 1.38%;
   width: 43.69%;
-  top: 36.71%;
-  left: 16.59%;
+  top: 28.8%;
+  left: 16.82%;
   display: flex;
   align-items: center;
 }
-.keeping-a-cheerful,
-.things-to-ensure {
+.jun-2022-accordion1,
+.jun-2022-accordion2,
+.jun-2022-accordion3 {
   width: 38.32%;
-  top: 53.97%;
+  top: 42.24%;
 }
-.keeping-a-cheerful {
-  width: 43.69%;
-  top: 71.33%;
+.jun-2022-accordion2,
+.jun-2022-accordion3 {
+  top: 67.13%;
+}
+.jun-2022-accordion3 {
+  top: 48.46%;
+}
+.jun-2022-accordion4,
+.jun-2022-accordion5,
+.jun-2022-accordion6,
+.jun-2022-accordion7,
+.jun-2022-accordion8 {
+  position: absolute;
+  height: 1.38%;
+  width: 38.32%;
+  top: 73.35%;
+  left: 16.82%;
+  display: flex;
+  align-items: center;
+}
+.jun-2022-accordion5,
+.jun-2022-accordion6,
+.jun-2022-accordion7,
+.jun-2022-accordion8 {
+  top: 54.69%;
+}
+.jun-2022-accordion6,
+.jun-2022-accordion7,
+.jun-2022-accordion8 {
+  top: 79.57%;
+}
+.jun-2022-accordion7,
+.jun-2022-accordion8 {
+  top: 60.91%;
+}
+.jun-2022-accordion8 {
+  top: 85.79%;
 }
 .group-child {
-  position: absolute;
-  top: 0;
-  left: 0;
-  border-radius: var(--br-xs);
-  background-color: var(--color-green);
-  width: 42px;
-  height: 42px;
-  transform: rotate(-180deg);
-  transform-origin: 0 0;
-}
-.shape-icon {
-  position: absolute;
-  height: 44.76%;
-  width: 24.76%;
-  top: -73.81%;
-  right: 131.91%;
-  bottom: 129.05%;
-  left: -56.67%;
-  max-width: 100%;
-  overflow: hidden;
-  max-height: 100%;
-}
-.rectangle-parent {
-  position: absolute;
-  top: 968px;
-  left: 385px;
-  width: 42px;
-  height: 42px;
-  transform: rotate(-180deg);
-  transform-origin: 0 0;
-}
-.group-item {
   position: absolute;
   top: 0;
   left: 0;
@@ -214,7 +281,7 @@ body {
   width: 35px;
   height: 35px;
 }
-.shape-icon1 {
+.shape-icon {
   position: absolute;
   height: 45.71%;
   width: 25.71%;
@@ -226,18 +293,18 @@ body {
   overflow: hidden;
   max-height: 100%;
 }
-.rectangle-group {
+.rectangle-parent {
   position: absolute;
   top: 134px;
-  left: 24px;
+  left: 20px;
   width: 35px;
   height: 35px;
 }
-.iphone-13-pro-max-6 {
+.iphone-13-pro-max-7 {
   position: relative;
   background-color: var(--color-gray-100);
   width: 100%;
-  height: 1008px;
+  height: 1302px;
   overflow: hidden;
   text-align: left;
   font-size: var(--font-size-base);

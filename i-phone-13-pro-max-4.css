@@ -18,7 +18,7 @@ body {
   width: 391px;
   height: 453px;
 }
-.logo-600x600-2-removebg-previe-icon1 {
+.logo-600x600-2-removebg-previe-icon3 {
   position: absolute;
   top: 36px;
   left: 104px;
@@ -89,7 +89,7 @@ body {
   background-color: var(--color-white);
   box-shadow: 0 2px 20px rgba(0, 122, 51, 0.31);
 }
-.battery-icon1 {
+.battery-icon3 {
   position: absolute;
   height: 53.18%;
   width: 8.01%;
@@ -101,7 +101,7 @@ body {
   overflow: hidden;
   max-height: 100%;
 }
-.div1 {
+.div3 {
   position: absolute;
   height: 91.85%;
   width: 8.57%;
@@ -109,15 +109,15 @@ body {
   left: 81.76%;
   display: inline-block;
 }
-.bluetooth-icon1,
-.lock-icon1,
-.wifi-icon1 {
+.bluetooth-icon3,
+.lock-icon3,
+.wifi-icon3 {
   position: absolute;
   max-width: 100%;
   overflow: hidden;
   max-height: 100%;
 }
-.bluetooth-icon1 {
+.bluetooth-icon3 {
   height: 68.24%;
   width: 2.09%;
   top: 13.99%;
@@ -126,8 +126,8 @@ body {
   left: 78.07%;
   opacity: 0.45;
 }
-.lock-icon1,
-.wifi-icon1 {
+.lock-icon3,
+.wifi-icon3 {
   height: 52.41%;
   width: 2.21%;
   top: 23.39%;
@@ -135,14 +135,14 @@ body {
   bottom: 24.2%;
   left: 49.05%;
 }
-.wifi-icon1 {
+.wifi-icon3 {
   height: 57.65%;
   width: 4.15%;
   right: 77.75%;
   bottom: 18.96%;
   left: 18.1%;
 }
-.gs1 {
+.gs3 {
   position: absolute;
   height: 99.58%;
   width: 4.97%;
@@ -150,7 +150,7 @@ body {
   left: 12.02%;
   display: inline-block;
 }
-.signal-icon1 {
+.signal-icon3 {
   position: absolute;
   height: 36.69%;
   width: 11.33%;
@@ -162,13 +162,13 @@ body {
   overflow: hidden;
   max-height: 100%;
 }
-.battery-icon-group,
+.battery-icon-parent1,
 .chemotherapy-details {
   position: absolute;
   font-family: var(--font-segoe-ui);
   color: var(--color-white);
 }
-.battery-icon-group {
+.battery-icon-parent1 {
   height: 2.09%;
   width: 93.45%;
   top: 0.86%;
@@ -233,7 +233,7 @@ body {
   color: var(--color-white);
   text-align: center;
 }
-.group-inner {
+.group-child3 {
   position: absolute;
   top: 0;
   left: 0;
@@ -252,7 +252,7 @@ body {
   height: 20px;
   overflow: hidden;
 }
-.rectangle-container {
+.rectangle-parent2 {
   position: absolute;
   top: 435px;
   left: 338px;
@@ -271,7 +271,7 @@ body {
   display: flex;
   align-items: center;
 }
-.group-child1 {
+.group-child4 {
   position: absolute;
   top: 0;
   left: 0;
@@ -281,7 +281,7 @@ body {
   width: 35px;
   height: 35px;
 }
-.shape-icon2 {
+.shape-icon5 {
   position: absolute;
   height: 45.71%;
   width: 25.71%;
@@ -293,7 +293,7 @@ body {
   overflow: hidden;
   max-height: 100%;
 }
-.group-div {
+.rectangle-parent3 {
   position: absolute;
   top: 134px;
   left: 15px;

@@ -88,7 +88,7 @@ body {
   top: 84.15%;
   bottom: 10.92%;
 }
-.battery-icon3 {
+.battery-icon5 {
   position: absolute;
   height: 53.18%;
   width: 8.01%;
@@ -100,7 +100,7 @@ body {
   overflow: hidden;
   max-height: 100%;
 }
-.div3 {
+.div5 {
   position: absolute;
   height: 91.85%;
   width: 8.57%;
@@ -108,15 +108,15 @@ body {
   left: 81.76%;
   display: inline-block;
 }
-.bluetooth-icon3,
-.lock-icon3,
-.wifi-icon3 {
+.bluetooth-icon5,
+.lock-icon5,
+.wifi-icon5 {
   position: absolute;
   max-width: 100%;
   overflow: hidden;
   max-height: 100%;
 }
-.bluetooth-icon3 {
+.bluetooth-icon5 {
   height: 68.24%;
   width: 2.09%;
   top: 13.99%;
@@ -125,8 +125,8 @@ body {
   left: 78.07%;
   opacity: 0.45;
 }
-.lock-icon3,
-.wifi-icon3 {
+.lock-icon5,
+.wifi-icon5 {
   height: 52.41%;
   width: 2.21%;
   top: 23.39%;
@@ -134,14 +134,14 @@ body {
   bottom: 24.2%;
   left: 49.05%;
 }
-.wifi-icon3 {
+.wifi-icon5 {
   height: 57.65%;
   width: 4.15%;
   right: 77.75%;
   bottom: 18.96%;
   left: 18.1%;
 }
-.gs3 {
+.gs5 {
   position: absolute;
   height: 99.58%;
   width: 4.97%;
@@ -149,7 +149,7 @@ body {
   left: 12.02%;
   display: inline-block;
 }
-.signal-icon3 {
+.signal-icon5 {
   position: absolute;
   height: 36.69%;
   width: 11.33%;
@@ -161,7 +161,7 @@ body {
   overflow: hidden;
   max-height: 100%;
 }
-.battery-icon-parent1 {
+.battery-icon-parent3 {
   position: absolute;
   height: 1.71%;
   width: 93.45%;
@@ -243,13 +243,13 @@ body {
   align-items: center;
   width: 209px;
 }
-.group-child5,
+.group-child8,
 .who-cooks-your {
   position: absolute;
   top: 645px;
   left: 249px;
 }
-.group-child5 {
+.group-child8 {
   top: 0;
   left: 0;
   border-radius: var(--br-xs);
@@ -258,7 +258,7 @@ body {
   width: 35px;
   height: 35px;
 }
-.shape-icon5 {
+.shape-icon8 {
   position: absolute;
   height: 45.71%;
   width: 25.71%;
@@ -270,15 +270,15 @@ body {
   overflow: hidden;
   max-height: 100%;
 }
-.group-child6,
-.rectangle-parent4 {
+.group-child9,
+.rectangle-parent7 {
   position: absolute;
   top: 134px;
   left: 18px;
   width: 35px;
   height: 35px;
 }
-.group-child6 {
+.group-child9 {
   top: 0;
   left: 0;
   border-radius: var(--br-xs);
@@ -288,7 +288,7 @@ body {
   transform: rotate(-180deg);
   transform-origin: 0 0;
 }
-.shape-icon6 {
+.shape-icon9 {
   position: absolute;
   height: 44.76%;
   width: 24.76%;
@@ -300,7 +300,7 @@ body {
   overflow: hidden;
   max-height: 100%;
 }
-.rectangle-parent5 {
+.rectangle-parent8 {
   position: absolute;
   top: 1097px;
   left: 389px;
@@ -321,7 +321,7 @@ body {
   width: 281px;
   height: 36px;
 }
-.logo-600x600-2-removebg-previe-icon3 {
+.logo-600x600-2-removebg-previe-icon5 {
   position: absolute;
   top: 36px;
   left: 108px;

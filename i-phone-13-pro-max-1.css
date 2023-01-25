@@ -24,7 +24,7 @@ body {
   width: 391px;
   height: 478px;
 }
-.battery-icon4,
+.battery-icon6,
 .iphone-13-pro-max-1-inner {
   position: absolute;
   top: 69px;
@@ -32,7 +32,7 @@ body {
   width: 267px;
   height: 267px;
 }
-.battery-icon4 {
+.battery-icon6 {
   height: 53.18%;
   width: 8.01%;
   top: 21.99%;
@@ -43,7 +43,7 @@ body {
   overflow: hidden;
   max-height: 100%;
 }
-.div4 {
+.div6 {
   position: absolute;
   height: 91.85%;
   width: 8.57%;
@@ -51,15 +51,15 @@ body {
   left: 81.76%;
   display: inline-block;
 }
-.bluetooth-icon4,
-.lock-icon4,
-.wifi-icon4 {
+.bluetooth-icon6,
+.lock-icon6,
+.wifi-icon6 {
   position: absolute;
   max-width: 100%;
   overflow: hidden;
   max-height: 100%;
 }
-.bluetooth-icon4 {
+.bluetooth-icon6 {
   height: 68.24%;
   width: 2.09%;
   top: 13.99%;
@@ -68,8 +68,8 @@ body {
   left: 78.07%;
   opacity: 0.45;
 }
-.lock-icon4,
-.wifi-icon4 {
+.lock-icon6,
+.wifi-icon6 {
   height: 52.41%;
   width: 2.21%;
   top: 23.39%;
@@ -77,14 +77,14 @@ body {
   bottom: 24.2%;
   left: 49.05%;
 }
-.wifi-icon4 {
+.wifi-icon6 {
   height: 57.65%;
   width: 4.15%;
   right: 77.75%;
   bottom: 18.96%;
   left: 18.1%;
 }
-.gs4 {
+.gs6 {
   position: absolute;
   height: 99.58%;
   width: 4.97%;
@@ -92,7 +92,7 @@ body {
   left: 12.02%;
   display: inline-block;
 }
-.signal-icon4 {
+.signal-icon6 {
   position: absolute;
   height: 36.69%;
   width: 11.33%;
@@ -104,7 +104,7 @@ body {
   overflow: hidden;
   max-height: 100%;
 }
-.battery-icon-parent2 {
+.battery-icon-parent4 {
   position: absolute;
   height: 2.09%;
   width: 93.45%;
@@ -162,7 +162,7 @@ body {
   display: flex;
   align-items: center;
 }
-.logo-600x600-2-removebg-previe-icon4 {
+.logo-600x600-2-removebg-previe-icon6 {
   position: absolute;
   top: 119px;
   left: 134px;
