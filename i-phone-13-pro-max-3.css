@@ -1,0 +1,378 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.iphone-13-pro-max-3-child {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 428px;
+  height: 606px;
+}
+.iphone-13-pro-max-3-item {
+  position: absolute;
+  top: 293px;
+  left: 17px;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  width: 391px;
+  height: 676px;
+}
+.iphone-13-pro-max-3-child1,
+.iphone-13-pro-max-3-child2,
+.iphone-13-pro-max-3-inner {
+  position: absolute;
+  height: 5.12%;
+  width: 80.14%;
+  top: 30.35%;
+  right: 9.58%;
+  bottom: 64.53%;
+  left: 10.28%;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 20px rgba(0, 122, 51, 0.31);
+}
+.iphone-13-pro-max-3-child1,
+.iphone-13-pro-max-3-child2 {
+  top: 38.3%;
+  bottom: 56.58%;
+}
+.iphone-13-pro-max-3-child2 {
+  top: 63.53%;
+  bottom: 31.35%;
+}
+.battery-icon4 {
+  position: absolute;
+  height: 53.18%;
+  width: 8.01%;
+  top: 21.99%;
+  right: 0;
+  bottom: 24.83%;
+  left: 91.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div4 {
+  position: absolute;
+  height: 91.85%;
+  width: 8.57%;
+  top: 0;
+  left: 81.76%;
+  display: inline-block;
+}
+.bluetooth-icon4,
+.lock-icon4,
+.wifi-icon4 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bluetooth-icon4 {
+  height: 68.24%;
+  width: 2.09%;
+  top: 13.99%;
+  right: 19.84%;
+  bottom: 17.77%;
+  left: 78.07%;
+  opacity: 0.45;
+}
+.lock-icon4,
+.wifi-icon4 {
+  height: 52.41%;
+  width: 2.21%;
+  top: 23.39%;
+  right: 48.74%;
+  bottom: 24.2%;
+  left: 49.05%;
+}
+.wifi-icon4 {
+  height: 57.65%;
+  width: 4.15%;
+  right: 77.75%;
+  bottom: 18.96%;
+  left: 18.1%;
+}
+.gs4 {
+  position: absolute;
+  height: 99.58%;
+  width: 4.97%;
+  top: 0.42%;
+  left: 12.02%;
+  display: inline-block;
+}
+.signal-icon4 {
+  position: absolute;
+  height: 36.69%;
+  width: 11.33%;
+  top: 35.4%;
+  right: 88.67%;
+  bottom: 27.91%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.battery-icon-parent2,
+.medical-details {
+  position: absolute;
+  font-family: var(--font-segoe-ui);
+  color: var(--color-white);
+}
+.battery-icon-parent2 {
+  height: 1.77%;
+  width: 93.45%;
+  top: 0.73%;
+  right: 3.28%;
+  bottom: 97.5%;
+  left: 3.27%;
+  font-size: var(--font-size-lg);
+}
+.medical-details {
+  top: 241px;
+  left: 74px;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+  text-align: center;
+  width: 281px;
+  height: 36px;
+}
+.today-icon2 {
+  position: absolute;
+  height: 1.92%;
+  width: 5.14%;
+  top: 39.76%;
+  right: 16.12%;
+  bottom: 58.32%;
+  left: 78.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cancer-diagnosis {
+  top: 32.08%;
+  left: 16.82%;
+  color: var(--color-green);
+}
+.cancer-diagnosis,
+.hypertension,
+.hypertension1,
+.month-yr {
+  position: absolute;
+  height: 1.65%;
+  width: 38.32%;
+  display: flex;
+  align-items: center;
+}
+.month-yr {
+  top: 40.04%;
+  left: 16.82%;
+  color: var(--color-green);
+}
+.hypertension,
+.hypertension1 {
+  top: 52.56%;
+  left: 21.26%;
+}
+.hypertension1 {
+  top: 78.88%;
+  left: 19.39%;
+}
+.diabetes,
+.diabetes1,
+.file-namedocx1,
+.heart-disease,
+.heart-disease1 {
+  position: absolute;
+  height: 1.65%;
+  width: 20.79%;
+  top: 49.54%;
+  left: 21.26%;
+  display: flex;
+  align-items: center;
+}
+.diabetes1,
+.file-namedocx1,
+.heart-disease,
+.heart-disease1 {
+  top: 75.87%;
+  left: 19.39%;
+}
+.file-namedocx1,
+.heart-disease,
+.heart-disease1 {
+  width: 21.26%;
+  top: 55.67%;
+  left: 21.26%;
+}
+.file-namedocx1,
+.heart-disease1 {
+  top: 81.99%;
+  left: 19.39%;
+}
+.file-namedocx1 {
+  width: 38.32%;
+  top: 65.27%;
+  left: 18.69%;
+  color: var(--color-green);
+}
+.frame-icon1,
+.iphone-13-pro-max-3-child3 {
+  position: absolute;
+  top: 433px;
+  left: 319px;
+  width: 0;
+  height: 24px;
+}
+.frame-icon1 {
+  top: 576px;
+  left: 62px;
+  width: 16.26px;
+  height: 16.26px;
+  overflow: hidden;
+}
+.frame-icon2,
+.frame-icon3,
+.frame-icon4,
+.frame-icon5,
+.frame-icon6 {
+  position: absolute;
+  top: 864px;
+  left: 54px;
+  width: 16.26px;
+  height: 16.26px;
+  overflow: hidden;
+}
+.frame-icon3,
+.frame-icon4,
+.frame-icon5,
+.frame-icon6 {
+  top: 610px;
+  left: 62px;
+}
+.frame-icon4,
+.frame-icon5,
+.frame-icon6 {
+  top: 898px;
+  left: 54px;
+}
+.frame-icon5,
+.frame-icon6 {
+  top: 543px;
+  left: 62px;
+}
+.frame-icon6 {
+  top: 831px;
+  left: 54px;
+}
+.group-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-green);
+  width: 40px;
+  height: 40px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.frame-icon7 {
+  position: absolute;
+  top: -30px;
+  left: 10px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.group-child6,
+.rectangle-parent4 {
+  position: absolute;
+  transform-origin: 0 0;
+}
+.rectangle-parent4 {
+  top: 743px;
+  left: 333px;
+  box-shadow: 0 4px 10px rgba(73, 140, 101, 0.71);
+  width: 40px;
+  height: 40px;
+  transform: rotate(-90deg);
+}
+.group-child6 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-green);
+  width: 42px;
+  height: 42px;
+  transform: rotate(-180deg);
+}
+.shape-icon6 {
+  position: absolute;
+  height: 44.76%;
+  width: 24.76%;
+  top: -73.81%;
+  right: 131.91%;
+  bottom: 129.05%;
+  left: -56.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 1054px;
+  left: 391px;
+  width: 42px;
+  height: 42px;
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.group-child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 35px;
+  height: 35px;
+}
+.shape-icon7 {
+  position: absolute;
+  height: 45.71%;
+  width: 25.71%;
+  top: 25.71%;
+  right: 40%;
+  bottom: 28.57%;
+  left: 34.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 134px;
+  left: 20px;
+  width: 35px;
+  height: 35px;
+}
+.logo-600x600-2-removebg-previe-icon4 {
+  position: absolute;
+  top: 41px;
+  left: 108px;
+  width: 213px;
+  height: 213px;
+  object-fit: cover;
+}
+.iphone-13-pro-max-3 {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 1094px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-400);
+  font-family: var(--font-roboto);
+}

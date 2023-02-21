@@ -1,0 +1,313 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.iphone-13-pro-max-4-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 428px;
+  height: 606px;
+}
+.iphone-13-pro-max-4-item {
+  position: absolute;
+  top: 325px;
+  left: 14px;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  width: 391px;
+  height: 453px;
+}
+.logo-600x600-2-removebg-previe-icon3 {
+  position: absolute;
+  top: 36px;
+  left: 104px;
+  width: 213px;
+  height: 213px;
+  object-fit: cover;
+}
+.iphone-13-pro-max-4-child1,
+.iphone-13-pro-max-4-child2,
+.iphone-13-pro-max-4-inner {
+  position: absolute;
+  height: 6.05%;
+  width: 80.14%;
+  top: 51.73%;
+  right: 8.64%;
+  bottom: 42.22%;
+  left: 11.21%;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 20px rgba(0, 122, 51, 0.31);
+}
+.iphone-13-pro-max-4-child1,
+.iphone-13-pro-max-4-child2 {
+  top: 61.66%;
+  bottom: 32.29%;
+}
+.iphone-13-pro-max-4-child2 {
+  top: 71.81%;
+  bottom: 22.14%;
+}
+.today-icon,
+.today-icon1 {
+  position: absolute;
+  height: 2.27%;
+  width: 5.14%;
+  top: 63.39%;
+  right: 15.19%;
+  bottom: 34.34%;
+  left: 79.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.today-icon1 {
+  top: 73.54%;
+  bottom: 24.19%;
+}
+.iphone-13-pro-max-4-child3,
+.line-div {
+  position: absolute;
+  top: 585px;
+  left: 323px;
+  width: 0;
+  height: 24px;
+}
+.iphone-13-pro-max-4-child3 {
+  top: 679px;
+}
+.iphone-13-pro-max-4-child4 {
+  position: absolute;
+  height: 6.05%;
+  width: 80.14%;
+  top: 41.79%;
+  right: 8.64%;
+  bottom: 52.16%;
+  left: 11.21%;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 20px rgba(0, 122, 51, 0.31);
+}
+.battery-icon3 {
+  position: absolute;
+  height: 53.18%;
+  width: 8.01%;
+  top: 21.99%;
+  right: 0;
+  bottom: 24.83%;
+  left: 91.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div3 {
+  position: absolute;
+  height: 91.85%;
+  width: 8.57%;
+  top: 0;
+  left: 81.76%;
+  display: inline-block;
+}
+.bluetooth-icon3,
+.lock-icon3,
+.wifi-icon3 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bluetooth-icon3 {
+  height: 68.24%;
+  width: 2.09%;
+  top: 13.99%;
+  right: 19.84%;
+  bottom: 17.77%;
+  left: 78.07%;
+  opacity: 0.45;
+}
+.lock-icon3,
+.wifi-icon3 {
+  height: 52.41%;
+  width: 2.21%;
+  top: 23.39%;
+  right: 48.74%;
+  bottom: 24.2%;
+  left: 49.05%;
+}
+.wifi-icon3 {
+  height: 57.65%;
+  width: 4.15%;
+  right: 77.75%;
+  bottom: 18.96%;
+  left: 18.1%;
+}
+.gs3 {
+  position: absolute;
+  height: 99.58%;
+  width: 4.97%;
+  top: 0.42%;
+  left: 12.02%;
+  display: inline-block;
+}
+.signal-icon3 {
+  position: absolute;
+  height: 36.69%;
+  width: 11.33%;
+  top: 35.4%;
+  right: 88.67%;
+  bottom: 27.91%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.battery-icon-parent1,
+.chemotherapy-details {
+  position: absolute;
+  font-family: var(--font-segoe-ui);
+  color: var(--color-white);
+}
+.battery-icon-parent1 {
+  height: 2.09%;
+  width: 93.45%;
+  top: 0.86%;
+  right: 3.28%;
+  bottom: 97.04%;
+  left: 3.27%;
+  font-size: var(--font-size-lg);
+}
+.chemotherapy-details {
+  top: 257px;
+  left: 74px;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+  text-align: center;
+  width: 281px;
+  height: 36px;
+}
+.chemo-regimen,
+.last-chemo-given,
+.next-chemo-likely,
+.no-of-cycles {
+  position: absolute;
+  height: 1.94%;
+  width: 38.32%;
+  top: 38.98%;
+  left: 10.98%;
+  display: flex;
+  align-items: center;
+}
+.last-chemo-given,
+.next-chemo-likely,
+.no-of-cycles {
+  top: 63.71%;
+  left: 17.29%;
+}
+.next-chemo-likely,
+.no-of-cycles {
+  top: 53.67%;
+}
+.next-chemo-likely {
+  top: 73.65%;
+}
+.iphone-13-pro-max-4-child5 {
+  position: absolute;
+  top: 832px;
+  left: 74px;
+  border-radius: var(--br-lg);
+  background: linear-gradient(-90deg, #007a33, #47a56e);
+  box-shadow: 0 4px 20px 5px rgba(112, 220, 157, 0.42);
+  width: 277px;
+  height: 47px;
+}
+.submit {
+  position: absolute;
+  height: 2.59%;
+  width: 20.56%;
+  top: 91.14%;
+  left: 39.49%;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  font-family: var(--font-montserrat);
+  color: var(--color-white);
+  text-align: center;
+}
+.group-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-green);
+  width: 40px;
+  height: 40px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.frame-icon {
+  position: absolute;
+  top: -30px;
+  left: 10px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 435px;
+  left: 338px;
+  box-shadow: 0 4px 10px rgba(73, 140, 101, 0.71);
+  width: 40px;
+  height: 40px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.file-namedocx {
+  position: absolute;
+  height: 1.94%;
+  width: 38.32%;
+  top: 43.84%;
+  left: 17.29%;
+  display: flex;
+  align-items: center;
+}
+.group-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 35px;
+  height: 35px;
+}
+.shape-icon5 {
+  position: absolute;
+  height: 45.71%;
+  width: 25.71%;
+  top: 25.71%;
+  right: 40%;
+  bottom: 28.57%;
+  left: 34.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 134px;
+  left: 15px;
+  width: 35px;
+  height: 35px;
+}
+.iphone-13-pro-max-4 {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-green);
+  font-family: var(--font-roboto);
+}

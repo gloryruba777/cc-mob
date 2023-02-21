@@ -2,37 +2,32 @@ body {
   margin: 0;
   line-height: normal;
 }
-.iphone-13-pro-max-1-child,
-.mask-group-icon {
+.iphone-13-pro-max-7-child {
   position: absolute;
   top: 0;
-  left: 1px;
+  left: 0;
   width: 428px;
   height: 606px;
 }
-.mask-group-icon {
-  left: 3px;
-  width: 425px;
-  height: 573px;
-}
-.iphone-13-pro-max-1-item {
+.iphone-13-pro-max-7-item {
   position: absolute;
-  top: 196px;
+  top: 319px;
   left: 18px;
-  border-radius: 21px;
+  border-radius: var(--br-md);
   background-color: var(--color-white);
   width: 391px;
-  height: 478px;
+  height: 875px;
 }
-.battery-icon,
-.iphone-13-pro-max-1-inner {
+.logo-600x600-2-removebg-previe-icon {
   position: absolute;
-  top: 69px;
-  left: 77px;
-  width: 267px;
-  height: 267px;
+  top: 36px;
+  left: 103px;
+  width: 213px;
+  height: 213px;
+  object-fit: cover;
 }
 .battery-icon {
+  position: absolute;
   height: 53.18%;
   width: 8.01%;
   top: 21.99%;
@@ -110,83 +105,209 @@ body {
   overflow: hidden;
   max-height: 100%;
 }
-.battery-icon-parent {
+.battery-icon-parent,
+.dietary-suggestions,
+.presumptive-date-of {
   position: absolute;
-  height: 2.09%;
-  width: 93.45%;
-  top: 0.86%;
-  right: 3.28%;
-  bottom: 97.04%;
-  left: 3.27%;
+  font-family: var(--font-segoe-ui);
+  color: var(--color-white);
 }
+.battery-icon-parent {
+  height: 1.49%;
+  width: 93.45%;
+  top: 1%;
+  right: 3.28%;
+  bottom: 97.51%;
+  left: 3.27%;
+  font-size: var(--font-size-lg);
+}
+.dietary-suggestions,
+.presumptive-date-of {
+  top: 258px;
+  left: 74px;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+  text-align: center;
+  width: 281px;
+  height: 36px;
+}
+.presumptive-date-of {
+  top: 1220px;
+  left: 73px;
+  font-weight: 600;
+  color: var(--color-green);
+  height: 60px;
+}
+.iphone-13-pro-max-7-inner,
 .rectangle-div {
   position: absolute;
-  top: 757px;
-  left: 72px;
-  border-radius: 33px;
-  background: linear-gradient(270deg, #007a33, #4fc983);
-  box-shadow: 0 4px 20px 10px rgba(112, 220, 157, 0.32);
-  width: 277px;
-  height: 47px;
-}
-.login {
-  position: absolute;
-  height: 2.59%;
-  width: 20.56%;
-  top: 83.05%;
-  left: 39.02%;
-  font-size: 18px;
-  display: inline-block;
-  font-family: var(--font-montserrat);
-  text-align: center;
-}
-.iphone-13-pro-max-1-child1 {
-  position: absolute;
-  height: 6.05%;
-  width: 73.13%;
-  top: 45.46%;
-  right: 13.32%;
-  bottom: 48.49%;
-  left: 13.55%;
-  border-radius: 20px;
+  height: 11.6%;
+  width: 80.14%;
+  top: 27.5%;
+  right: 9.81%;
+  bottom: 60.91%;
+  left: 10.05%;
+  border-radius: var(--br-sm);
   background-color: var(--color-white);
   box-shadow: 0 2px 20px rgba(0, 122, 51, 0.31);
 }
-.mobile-number {
+.rectangle-div {
+  height: 4.84%;
+  top: 40.48%;
+  right: 10.05%;
+  bottom: 54.69%;
+  left: 9.81%;
+}
+.iphone-13-pro-max-7-child1,
+.iphone-13-pro-max-7-child2,
+.iphone-13-pro-max-7-child3,
+.iphone-13-pro-max-7-child4,
+.iphone-13-pro-max-7-child5,
+.iphone-13-pro-max-7-child6,
+.iphone-13-pro-max-7-child7 {
   position: absolute;
-  height: 1.94%;
-  width: 35.05%;
-  top: 47.52%;
-  left: 20.56%;
-  font-size: 12px;
-  font-family: var(--font-roboto);
-  color: #007a33;
+  height: 4.84%;
+  width: 80.14%;
+  top: 65.36%;
+  right: 10.05%;
+  bottom: 29.8%;
+  left: 9.81%;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 20px rgba(0, 122, 51, 0.31);
+}
+.iphone-13-pro-max-7-child2,
+.iphone-13-pro-max-7-child3,
+.iphone-13-pro-max-7-child4,
+.iphone-13-pro-max-7-child5,
+.iphone-13-pro-max-7-child6,
+.iphone-13-pro-max-7-child7 {
+  top: 46.7%;
+  bottom: 48.46%;
+}
+.iphone-13-pro-max-7-child3,
+.iphone-13-pro-max-7-child4,
+.iphone-13-pro-max-7-child5,
+.iphone-13-pro-max-7-child6,
+.iphone-13-pro-max-7-child7 {
+  top: 71.58%;
+  bottom: 23.58%;
+}
+.iphone-13-pro-max-7-child4,
+.iphone-13-pro-max-7-child5,
+.iphone-13-pro-max-7-child6,
+.iphone-13-pro-max-7-child7 {
+  top: 52.92%;
+  bottom: 42.24%;
+}
+.iphone-13-pro-max-7-child5,
+.iphone-13-pro-max-7-child6,
+.iphone-13-pro-max-7-child7 {
+  top: 77.8%;
+  bottom: 17.36%;
+}
+.iphone-13-pro-max-7-child6,
+.iphone-13-pro-max-7-child7 {
+  top: 59.14%;
+  bottom: 36.02%;
+}
+.iphone-13-pro-max-7-child7 {
+  top: 84.02%;
+  bottom: 11.14%;
+}
+.jun-2022-accordion,
+.jun-2022-accordion1,
+.jun-2022-accordion2,
+.jun-2022-accordion3 {
+  position: absolute;
+  height: 1.38%;
+  width: 43.69%;
+  top: 28.8%;
+  left: 16.82%;
   display: flex;
   align-items: center;
 }
-.logo-600x600-2-removebg-previe-icon {
-  position: absolute;
-  top: 119px;
-  left: 134px;
-  width: 160px;
-  height: 159px;
-  object-fit: cover;
+.jun-2022-accordion1,
+.jun-2022-accordion2,
+.jun-2022-accordion3 {
+  width: 38.32%;
+  top: 42.24%;
 }
-.ellipse-icon {
-  position: absolute;
-  top: 111px;
-  left: 123px;
-  width: 176px;
-  height: 176px;
+.jun-2022-accordion2,
+.jun-2022-accordion3 {
+  top: 67.13%;
 }
-.iphone-13-pro-max-1 {
+.jun-2022-accordion3 {
+  top: 48.46%;
+}
+.jun-2022-accordion4,
+.jun-2022-accordion5,
+.jun-2022-accordion6,
+.jun-2022-accordion7,
+.jun-2022-accordion8 {
+  position: absolute;
+  height: 1.38%;
+  width: 38.32%;
+  top: 73.35%;
+  left: 16.82%;
+  display: flex;
+  align-items: center;
+}
+.jun-2022-accordion5,
+.jun-2022-accordion6,
+.jun-2022-accordion7,
+.jun-2022-accordion8 {
+  top: 54.69%;
+}
+.jun-2022-accordion6,
+.jun-2022-accordion7,
+.jun-2022-accordion8 {
+  top: 79.57%;
+}
+.jun-2022-accordion7,
+.jun-2022-accordion8 {
+  top: 60.91%;
+}
+.jun-2022-accordion8 {
+  top: 85.79%;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 35px;
+  height: 35px;
+}
+.shape-icon {
+  position: absolute;
+  height: 45.71%;
+  width: 25.71%;
+  top: 25.71%;
+  right: 40%;
+  bottom: 28.57%;
+  left: 34.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 134px;
+  left: 20px;
+  width: 35px;
+  height: 35px;
+}
+.iphone-13-pro-max-7 {
   position: relative;
-  background-color: #e6eff6;
+  background-color: var(--color-gray-100);
   width: 100%;
-  height: 926px;
+  height: 1302px;
   overflow: hidden;
   text-align: left;
   font-size: var(--font-size-base);
-  color: var(--color-white);
-  font-family: var(--font-segoe-ui);
+  color: var(--color-gray-300);
+  font-family: var(--font-roboto);
 }

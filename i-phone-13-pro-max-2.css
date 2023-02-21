@@ -1,0 +1,342 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.iphone-13-pro-max-2-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 428px;
+  height: 606px;
+}
+.iphone-13-pro-max-2-inner,
+.iphone-13-pro-max-2-item {
+  position: absolute;
+  top: 281px;
+  left: 18px;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  width: 391px;
+  height: 755px;
+}
+.iphone-13-pro-max-2-inner {
+  height: 4.93%;
+  width: 80.14%;
+  top: 28.61%;
+  right: 10.05%;
+  bottom: 66.46%;
+  left: 9.81%;
+  border-radius: var(--br-sm);
+  box-shadow: 0 2px 20px rgba(0, 122, 51, 0.31);
+}
+.iphone-13-pro-max-2-child1,
+.iphone-13-pro-max-2-child2,
+.iphone-13-pro-max-2-child3,
+.iphone-13-pro-max-2-child4,
+.iphone-13-pro-max-2-child5,
+.iphone-13-pro-max-2-child6,
+.iphone-13-pro-max-2-child7 {
+  position: absolute;
+  height: 4.93%;
+  width: 80.14%;
+  top: 36.09%;
+  right: 10.05%;
+  bottom: 58.98%;
+  left: 9.81%;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 20px #d0d0d0;
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.iphone-13-pro-max-2-child2,
+.iphone-13-pro-max-2-child3,
+.iphone-13-pro-max-2-child4,
+.iphone-13-pro-max-2-child5,
+.iphone-13-pro-max-2-child6,
+.iphone-13-pro-max-2-child7 {
+  top: 43.49%;
+  bottom: 51.58%;
+}
+.iphone-13-pro-max-2-child3,
+.iphone-13-pro-max-2-child4,
+.iphone-13-pro-max-2-child5,
+.iphone-13-pro-max-2-child6,
+.iphone-13-pro-max-2-child7 {
+  top: 51.23%;
+  bottom: 43.84%;
+}
+.iphone-13-pro-max-2-child4,
+.iphone-13-pro-max-2-child5,
+.iphone-13-pro-max-2-child6,
+.iphone-13-pro-max-2-child7 {
+  top: 59.51%;
+  bottom: 35.56%;
+}
+.iphone-13-pro-max-2-child5,
+.iphone-13-pro-max-2-child6,
+.iphone-13-pro-max-2-child7 {
+  top: 67.78%;
+  bottom: 27.29%;
+}
+.iphone-13-pro-max-2-child6,
+.iphone-13-pro-max-2-child7 {
+  top: 77.02%;
+  bottom: 18.05%;
+}
+.iphone-13-pro-max-2-child7 {
+  top: 84.15%;
+  bottom: 10.92%;
+}
+.battery-icon5 {
+  position: absolute;
+  height: 53.18%;
+  width: 8.01%;
+  top: 21.99%;
+  right: 0;
+  bottom: 24.83%;
+  left: 91.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div5 {
+  position: absolute;
+  height: 91.85%;
+  width: 8.57%;
+  top: 0;
+  left: 81.76%;
+  display: inline-block;
+}
+.bluetooth-icon5,
+.lock-icon5,
+.wifi-icon5 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bluetooth-icon5 {
+  height: 68.24%;
+  width: 2.09%;
+  top: 13.99%;
+  right: 19.84%;
+  bottom: 17.77%;
+  left: 78.07%;
+  opacity: 0.45;
+}
+.lock-icon5,
+.wifi-icon5 {
+  height: 52.41%;
+  width: 2.21%;
+  top: 23.39%;
+  right: 48.74%;
+  bottom: 24.2%;
+  left: 49.05%;
+}
+.wifi-icon5 {
+  height: 57.65%;
+  width: 4.15%;
+  right: 77.75%;
+  bottom: 18.96%;
+  left: 18.1%;
+}
+.gs5 {
+  position: absolute;
+  height: 99.58%;
+  width: 4.97%;
+  top: 0.42%;
+  left: 12.02%;
+  display: inline-block;
+}
+.signal-icon5 {
+  position: absolute;
+  height: 36.69%;
+  width: 11.33%;
+  top: 35.4%;
+  right: 88.67%;
+  bottom: 27.91%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.battery-icon-parent3 {
+  position: absolute;
+  height: 1.71%;
+  width: 93.45%;
+  top: 0.7%;
+  right: 3.28%;
+  bottom: 97.59%;
+  left: 3.27%;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-segoe-ui);
+}
+.dietary-caretaker,
+.name {
+  position: absolute;
+  height: 1.58%;
+  width: 38.32%;
+  left: 18.22%;
+  display: flex;
+  align-items: center;
+}
+.name {
+  top: 30.37%;
+  color: var(--color-green);
+}
+.dietary-caretaker {
+  top: 45.16%;
+}
+.age,
+.financial-caretaker,
+.hospital-caretaker,
+.hospital-where-treated,
+.place-of-living,
+.treating-doctors {
+  position: absolute;
+  height: 1.58%;
+  width: 38.32%;
+  top: 61.18%;
+  left: 18.22%;
+  display: flex;
+  align-items: center;
+}
+.age,
+.financial-caretaker,
+.hospital-where-treated,
+.place-of-living,
+.treating-doctors {
+  top: 78.7%;
+}
+.age,
+.financial-caretaker,
+.place-of-living,
+.treating-doctors {
+  top: 37.68%;
+}
+.financial-caretaker,
+.place-of-living,
+.treating-doctors {
+  height: 1.14%;
+  top: 52.99%;
+}
+.place-of-living,
+.treating-doctors {
+  height: 1.58%;
+  top: 69.45%;
+}
+.treating-doctors {
+  top: 85.83%;
+}
+.who-comes-to,
+.who-pays-your {
+  position: absolute;
+  top: 738px;
+  left: 256px;
+}
+.who-comes-to {
+  top: 834px;
+  left: 170px;
+  display: flex;
+  align-items: center;
+  width: 209px;
+}
+.group-child8,
+.who-cooks-your {
+  position: absolute;
+  top: 645px;
+  left: 249px;
+}
+.group-child8 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 35px;
+  height: 35px;
+}
+.shape-icon8 {
+  position: absolute;
+  height: 45.71%;
+  width: 25.71%;
+  top: 25.71%;
+  right: 40%;
+  bottom: 28.57%;
+  left: 34.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child9,
+.rectangle-parent7 {
+  position: absolute;
+  top: 134px;
+  left: 18px;
+  width: 35px;
+  height: 35px;
+}
+.group-child9 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-green);
+  width: 42px;
+  height: 42px;
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.shape-icon9 {
+  position: absolute;
+  height: 44.76%;
+  width: 24.76%;
+  top: -73.81%;
+  right: 131.91%;
+  bottom: 129.05%;
+  left: -56.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent8 {
+  position: absolute;
+  top: 1097px;
+  left: 389px;
+  width: 42px;
+  height: 42px;
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.about-yourself {
+  position: absolute;
+  top: 217px;
+  left: 76px;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+  font-family: var(--font-segoe-ui);
+  color: var(--color-white);
+  text-align: center;
+  width: 281px;
+  height: 36px;
+}
+.logo-600x600-2-removebg-previe-icon5 {
+  position: absolute;
+  top: 36px;
+  left: 108px;
+  width: 213px;
+  height: 213px;
+  object-fit: cover;
+}
+.iphone-13-pro-max-2 {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 1136px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-300);
+  font-family: var(--font-roboto);
+}
