@@ -118,10 +118,10 @@
             cache: false,
             success: function(result){
               var rVal= result.split('|');
-              var stage = rVal[0];
-              var year = rVal[1];
-              var rate = rVal[2];
-              var link = rVal[3];
+              var stage = "Cancer Stage : " + rVal[0];
+              var year = "Years : " + rVal[1];
+              var rate = "Survival Rate : " + rVal[2];
+              var link = "Source Link : " + rVal[3];
              $("#cancerStage").html(stage);
              $("#survivalYear").html(year);
              $("#survivalRate").html(rate);
