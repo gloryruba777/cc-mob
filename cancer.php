@@ -107,8 +107,6 @@
       function changeType() {
           var Tm_type = document.getElementById("Tmtype").value;
           var N_type  = document.getElementById("Ntype").value;
-          alert(Tm_type + "hi");
-          alert(N_type + "hi");
             $.ajax({
             url: "ajaxLoad.php",
             type: "POST",
